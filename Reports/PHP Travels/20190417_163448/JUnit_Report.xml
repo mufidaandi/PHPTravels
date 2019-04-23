@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PHP Travels" time="104" tests="2" failures="0" errors="0">
+   <testsuite name="PHP Travels" tests="2" failures="0" errors="0" time="104" timestamp="2019-04-17 16:34:53" hostname="Mufida - DESKTOP-HIVA34Q" id="Test Suites/PHP Travels">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Mufida\\Katalon Studio\\PHPTravelz\\Reports\\PHP Travels\\20190417_163448"/>
+         <property name="logFiles" value="C:\\Users\\Mufida\\Katalon Studio\\PHPTravelz\\Reports\\PHP Travels\\20190417_163448\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Mufida - DESKTOP-HIVA34Q"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.2.1"/>
+         <property name="browser" value="Chrome 73.0.3683.103"/>
+         <property name="hostAddress" value="192.168.1.126"/>
+         <property name="sessionId" value="31b50061bdaeaa412e5cbc6242d8b547"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Language" classname="Test Cases/Language" status="PASSED">
+         <system-out><![CDATA[2019-04-17 16:34:53 - [TEST_CASE][PASSED] - Test Cases/Language: Test Cases/Language
+
+2019-04-17 16:34:53 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://www.phptravels.net/'
+
+2019-04-17 16:35:12 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.phptravels.net/'
+
+2019-04-17 16:35:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:13 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/Russian' is clicked on
+
+2019-04-17 16:35:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/Russian' is clicked on
+
+2019-04-17 16:35:16 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:18 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/Farsi' is clicked on
+
+2019-04-17 16:35:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/Farsi' is clicked on
+
+2019-04-17 16:35:22 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:25 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/French' is clicked on
+
+2019-04-17 16:35:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/French' is clicked on
+
+2019-04-17 16:35:28 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:30 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/Turkish' is clicked on
+
+2019-04-17 16:35:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/Turkish' is clicked on
+
+2019-04-17 16:35:33 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:35 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:35 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/Arabic' is clicked on
+
+2019-04-17 16:35:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/Arabic' is clicked on
+
+2019-04-17 16:35:39 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:41 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:41 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:43 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/Spanish' is clicked on
+
+2019-04-17 16:35:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/Spanish' is clicked on
+
+2019-04-17 16:35:44 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:46 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/Language' is clicked on
+
+2019-04-17 16:35:46 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Language/English' is clicked on
+
+2019-04-17 16:35:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Language/English' is clicked on
+
+2019-04-17 16:35:50 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:52 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Currency" classname="Test Cases/Currency" status="PASSED">
+         <system-out><![CDATA[2019-04-17 16:35:52 - [TEST_CASE][PASSED] - Test Cases/Currency: Test Cases/Currency
+
+2019-04-17 16:35:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:35:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:35:52 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/USD' is clicked on
+
+2019-04-17 16:35:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/USD' is clicked on
+
+2019-04-17 16:35:54 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:35:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:35:57 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:35:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:35:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/GBP' is clicked on
+
+2019-04-17 16:35:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/GBP' is clicked on
+
+2019-04-17 16:35:59 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:01 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/SAR' is clicked on
+
+2019-04-17 16:36:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/SAR' is clicked on
+
+2019-04-17 16:36:03 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:05 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/EUR' is clicked on
+
+2019-04-17 16:36:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/EUR' is clicked on
+
+2019-04-17 16:36:07 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:10 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/PKR' is clicked on
+
+2019-04-17 16:36:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/PKR' is clicked on
+
+2019-04-17 16:36:12 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:14 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:16 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/KWD' is clicked on
+
+2019-04-17 16:36:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/KWD' is clicked on
+
+2019-04-17 16:36:16 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:18 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/JPY' is clicked on
+
+2019-04-17 16:36:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/JPY' is clicked on
+
+2019-04-17 16:36:20 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:22 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/INR' is clicked on
+
+2019-04-17 16:36:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/INR' is clicked on
+
+2019-04-17 16:36:25 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:27 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:29 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/CNY' is clicked on
+
+2019-04-17 16:36:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/CNY' is clicked on
+
+2019-04-17 16:36:29 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:31 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/Currency' is clicked on
+
+2019-04-17 16:36:31 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-17 16:36:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Currency/TRY' is clicked on
+
+2019-04-17 16:36:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Currency/TRY' is clicked on
+
+2019-04-17 16:36:33 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2019-04-17 16:36:35 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-04-17 16:34:53 - [TEST_SUITE][PASSED] - PHP Travels: Test Cases/Currency]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

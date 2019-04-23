@@ -4,7 +4,7 @@
    <name>PHPTravelz</name>
    <tag></tag>
    <UUID>b6ca8392-c39a-4247-8f62-5cb5ffe6322f</UUID>
-   <migratedVersion>5.7.0</migratedVersion>
+   <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
       <sourceFolderList>
@@ -18,6 +18,9 @@
          </systemFolderConfiguration>
          <systemFolderConfiguration>
             <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
